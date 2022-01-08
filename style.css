@@ -299,10 +299,11 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    font-family: "Yeon sung", sans-serif;
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    height: 35px;
     margin: 0 5px 0 0;
     display: inline;
 }
