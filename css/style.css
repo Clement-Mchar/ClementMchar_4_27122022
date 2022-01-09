@@ -738,6 +738,7 @@ label{
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: 700;
 }
 
 h3 {
@@ -804,15 +805,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f18857;
+    background-color: #47342b;
 }
 
 .tc-white {
-    color: #ffffff!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #f18857;
+    background: #47342b;
     color: #FFFFFF!important;
 }
 
