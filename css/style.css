@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'yeon_sungregular';
-    src: url('yeonsung-regular-webfont.woff2') format('woff2'),
-         url('yeonsung-regular-webfont.woff') format('woff');
+    src: url('../fonts/yeonsung-regular-webfont.woff2') format('woff2'),
+         url('../fonts/yeonsung-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display:swap;
