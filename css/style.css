@@ -1,6 +1,7 @@
 @font-face {
-    font-family: 'Yeon Sung';
-    src: url('../fonts/YeonSung-Regular.ttf') format('truetype');
+    font-family: 'yeon_sungregular';
+    src: url('yeonsung-regular-webfont.woff2') format('woff2'),
+         url('yeonsung-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display:swap;
@@ -298,7 +299,7 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
-    font-family: "Yeon sung", sans-serif;
+    font-family: "yeon_sungregular", sans-serif;
 }
 
 .navbar-brand img {
