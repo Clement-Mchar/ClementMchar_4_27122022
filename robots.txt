@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /includes/
+Disallow: /img/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+
+sitemap:https://github.com/Clement-Mchar/P4_02_code_source/blob/main/sitemap.txt
